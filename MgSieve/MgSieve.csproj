@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Thorsten Schroeder</Authors>
+    <Description>MgSieve is a .Net Library for the ManageSieve protocol, written in C#. A simple command line interface is also included. It allows the remote management of Sieve Scripts, according to [RFC5804](https://tools.ietf.org/html/rfc5804).</Description>
+    <Copyright>2018, Thorsten Schroeder</Copyright>
+    <PackageLicenseUrl>https://github.com/devio/MgSieve</PackageLicenseUrl>
+    <PackageIconUrl></PackageIconUrl>
+    <RepositoryUrl>https://github.com/devio/MgSieve</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/devio/MgSieve</PackageProjectUrl>
+    <PackageReleaseNotes>https://github.com/devio/MgSieve</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
