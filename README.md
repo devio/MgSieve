@@ -11,7 +11,7 @@ A list of all available command line options is available by using the -h switch
 [*] mgsieve - .Net ManageSieve-Client
 [*]   Copyright 2018, Thorsten Schroeder
 [*]   Information and updates on GitHub
-[*] Usage: manage-sieve.exe
+[*] Usage: MgSieve-Client.exe
   -h, -?, --help             Halp!
   -v, --verbose              Increase verbosity level
       --connect=VALUE        Connect to server
@@ -61,6 +61,10 @@ By 2018/08/31, the library is not yet fully compliant with [RFC5804](https://too
 It will be available in a new release, soon.
 
 Currently, DIGEST-MD5 and GSSAPI authentication methods are not implemented yet.
+
+### TODO
+
+1. Provide an installer for the client.
 
 ## Contact
 
