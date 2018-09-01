@@ -12,7 +12,7 @@ vacation
   # List of additional recipient addresses which are included in the auto replying.
   # If a mail's recipient is not the envelope recipient and it's not on this list,
   # no vacation reply is sent for it.
-  :addresses ["ths@dev.io", "ths@modone.de"]
+  :addresses ["hello@comtoso.con", "foobar@contoso.com"]
 "I'm out of office, please contact Joan Doe instead.
 Best regards
 John Doe";

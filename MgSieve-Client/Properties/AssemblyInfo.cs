@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MgSieve-Client")]
 [assembly: AssemblyDescription("MgSieve - A .Net ManageSieve Client and Library")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Thorsten Schroeder")]
+[assembly: AssemblyCompany("dev.io")]
 [assembly: AssemblyProduct("MgSieve-Client")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]

@@ -10,6 +10,8 @@
     <RepositoryUrl>https://github.com/devio/MgSieve</RepositoryUrl>
     <PackageProjectUrl>https://github.com/devio/MgSieve</PackageProjectUrl>
     <PackageReleaseNotes>https://github.com/devio/MgSieve</PackageReleaseNotes>
+    <Company>dev.io</Company>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
 </Project>
